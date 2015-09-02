@@ -3,6 +3,7 @@
 	"dictionary": "Packages/User/Spanish.dic",
 	"font_size": 11,
 	"highlight_modified_tabs": true,
+	"theme": "Soda Light.sublime-theme",
 	"ignored_packages":
 	[
 		"Vintage"
@@ -14,7 +15,6 @@
 		"Mastering",
 		"Starter",
 		"Text",
-		"comilla",
-		"r"
+		"comilla"
 	]
 }
