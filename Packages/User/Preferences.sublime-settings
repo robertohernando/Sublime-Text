@@ -1,0 +1,20 @@
+{
+	"allways_show_minimap_viewport": true,
+	"dictionary": "Packages/User/Spanish.dic",
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Goodread",
+		"Instant",
+		"Mastering",
+		"Starter",
+		"Text",
+		"comilla",
+		"r"
+	]
+}

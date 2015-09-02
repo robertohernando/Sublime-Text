@@ -1,2 +1,4 @@
-# Subliime-Text
-Ficheros de configuración de Sublime Text
+# Sublime-Text
+Configuration files for _Sublime Text_.
+
+Ficheros de configuración de _Sublime Text_.
