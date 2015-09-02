@@ -1,0 +1,23 @@
+{
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AsciiDoc",
+		"DokuWiki",
+		"FreeMarker",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownBuild",
+		"MarkdownEditing",
+		"Package Control",
+		"ReadmePlease",
+		"SublimeEvernote",
+		"Sublpress"
+	]
+}
